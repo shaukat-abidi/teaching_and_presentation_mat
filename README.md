@@ -6,7 +6,7 @@ I use them while preparing teaching materials for Machine Learning and its appli
 
  - AndrewNG_SequenceModels: **"Sequence Models"** by Andrew Ng
 
- - BayesianMethod_for_ML: **"Bayesian Methods in Machine Learning"** by National Research University Higher School of Economics (https://www.coursera.org/learn/bayesian-methods-in-machine-learning). 
+ - BayesianMethod_for_ML: **"Bayesian Methods in Machine Learning"** by National Research University Higher School of Economics (https://www.coursera.org/learn/bayesian-methods-in-machine-learning). Russians are known for mathematics, we can witness here. Although not very complex as topics in pure mathematics, its fun to go through this course.
 
  - BinarySVM_derivation: A simple derivation of Binary SVM (Hard margin and soft margin case). The dual representation helps in gaining the better understanding of Kernel matrix.
 
